@@ -1,16 +1,24 @@
 ### Hi there 👋
+# i am Mehdi rabani 
 
-<!--
-**mehdirabani/mehdirabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Activity
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirabani&show_icons=true&theme=merko) 
 
-Here are some ideas to get you started:
+## My Projects Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirabani&exclude_repo=github-readme-stats,anuraghazra.github.io_icons=true&theme=merko )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 
+I. Personal Information
+- Date of birth: June 6, 2000
+- Interest in freestyle wrestling
+- Passion for gaining knowledge in technology
+- Decision to become proficient in front-end programming
+
+II. Programming Goals
+- Desire to master html, css, js, tailwind, react, and nextjs
+- Currently in the process of learning these languages and frameworks
+
+III. Conclusion
+- Express gratitude for any assistance in writing a suitable text for the readme.md section
+- Emphasize the commitment to learning and growing in the field of programming.
+
