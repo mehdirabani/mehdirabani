@@ -1,7 +1,4 @@
-### Hi there 👋
-
-# i am Mehdi rabani 
-
+<a href="https://github.com/mehdirabani"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hi+dear%E2%9D%A4%EF%B8%8F%2C+I+am+Mehdi+Rabani++" alt="Typing SVG" /></a>
 ## About Me 
 ``` html
 <div.personal-information>
