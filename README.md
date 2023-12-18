@@ -16,6 +16,19 @@
   <h2>Emphasize the commitment to learning and growing in the field of programming</h2>
 </div>
 ```
+-------
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css)]([https://github.com/mehdirabani])
+<!---[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,next)]([https://skillicons.dev](https://github.com/mehdirabani))--->
+
+### Graphical tools
+[![Graphical tools](https://skillicons.dev/icons?i=xd,ps,ai,figma)]([https://github.com/mehdirabani])
+
+### Other tools
+[![Other tools](https://skillicons.dev/icons?i=vscode,atom,git,github)]([https://github.com/mehdirabani])
+
+-------
+
 > ###  My Road Map
 > Learn Html   <img src="https://img.shields.io/badge/success-green"> <br>
 > Learn Css <img src="https://img.shields.io/badge/Learning-yellow"> <br>
@@ -23,8 +36,6 @@
 > Learn ReactJS  <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
 > Learn TalwindCss <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
 > Learn Next.js  <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,next)]([https://skillicons.dev](https://github.com/mehdirabani))
 
 ## My Activity & My Projects Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirabani&show_icons=true&theme=merko)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirabani&exclude_repo=github-readme-stats,anuraghazra.github.io_icons=true&theme=merko )
