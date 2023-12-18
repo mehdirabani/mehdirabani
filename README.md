@@ -36,6 +36,6 @@
 > Learn ReactJS  <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
 > Learn TalwindCss <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
 > Learn Next.js  <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
-
+-------
 ## My Activity & My Projects Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirabani&show_icons=true&theme=merko)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirabani&exclude_repo=github-readme-stats,anuraghazra.github.io_icons=true&theme=merko )
