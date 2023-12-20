@@ -30,7 +30,7 @@
 -------
 
 > ###  My Road Map
-> Learn Html   <img src="https://img.shields.io/badge/success-green"> <br>
+> Learn Html   <img src="https://img.shields.io/badge/Success-green"> <br>
 > Learn Css <img src="https://img.shields.io/badge/Learning-yellow"> <br>
 > Learn Javascript <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
 > Learn ReactJS  <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
