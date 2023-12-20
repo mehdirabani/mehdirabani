@@ -36,6 +36,18 @@
 > Learn ReactJS  <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
 > Learn TalwindCss <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
 > Learn Next.js  <img src="https://img.shields.io/badge/Not%20Starting%20to%20Learn-red"> <br>
--------
-## My Activity & My Projects Languages
+
+### My Activity & My Projects Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirabani&show_icons=true&theme=merko)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirabani&exclude_repo=github-readme-stats,anuraghazra.github.io_icons=true&theme=merko )
+
+
+### Follow Social Media
+
+------
+
+<p align="left">
+<a href="https://instagram.com/mehdirabani_ir"  target="_blank" margin-right="10"> <img src="https://github.com/mehdirabani/mehdirabani/blob/main/instagram.png" width="32" height="32"></a>
+<a href="https://t.me/mehdirabani"  target="_blank"> <img src="https://github.com/mehdirabani/mehdirabani/blob/main/telegram.png" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/mehdirabani/"  target="_blank"> <img src="https://github.com/mehdirabani/mehdirabani/blob/main/linkedin.png" width="32" height="32"></a>
+<a href="pgm.mehdirabani@gmail.com"  target="_blank"> <img src="https://github.com/mehdirabani/mehdirabani/blob/main/gmail.png" width="32" height="32"></a> 
+</p>
