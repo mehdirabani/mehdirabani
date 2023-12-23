@@ -1,5 +1,9 @@
-<a href="https://github.com/mehdirabani"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hi+dear%E2%9D%A4%EF%B8%8F%2C+I+am+Mehdi+Rabani++" alt="Typing SVG" /></a>
+<p  align="center">
+<a align="center" href="https://github.com/mehdirabani"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hi+dear%E2%9D%A4%EF%B8%8F%2C+I+am+Mehdi+Rabani++" alt="Typing SVG" /></a>
+</p>
+
 ## About Me 
+
 ``` html
 <div.personal-information>
   <h2>Date of birth: June 6, 2000</h2>
@@ -17,6 +21,7 @@
 </div>
 ```
 -------
+
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css)]([https://github.com/mehdirabani])
 <!---[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,next)]([https://skillicons.dev](https://github.com/mehdirabani))--->
@@ -26,6 +31,7 @@
 
 ### Other tools
 [![Other tools](https://skillicons.dev/icons?i=vscode,atom,git,github)]([https://github.com/mehdirabani])
+
 
 -------
 
