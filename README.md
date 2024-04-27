@@ -2,8 +2,7 @@
 <a align="center" href="https://github.com/mehdirabani"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hi+dear%E2%9D%A4%EF%B8%8F%2C+I+am+Mehdi+Rabani++" alt="Typing SVG" /></a>
 </p>
 
-![snake gif](https://github.com/mehdirabani/mehdirabani/blob/output/github-contribution-grid-snake-dark.svg)
-
+[![snake gif](https://github.com/mehdirabani/mehdirabani/blob/output/github-contribution-grid-snake-dark.svg)]([https://github.com/mehdirabani])
 
 ## About Me 
 
