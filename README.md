@@ -22,6 +22,8 @@
   <h2>Emphasize the commitment to learning and growing in the field of programming</h2>
 </div>
 ```
+<a href="https://github.com/mehdirabani"> <img src="https://github.com/mehdirabani/mehdirabani/blob/output/github-contribution-grid-snake-dark.svg"></a>
+
 -------
 
 ### My Skills
@@ -64,4 +66,3 @@
 </p>
 
 
-<a href="https://github.com/mehdirabani"> <img src="https://github.com/mehdirabani/mehdirabani/blob/output/github-contribution-grid-snake-dark.svg"></a>
